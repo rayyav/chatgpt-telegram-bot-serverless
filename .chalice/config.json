@@ -3,8 +3,8 @@
   "app_name": "chatgpt-telegram-bot",
   "api_gateway_endpoint_type": "REGIONAL",
   "environment_variables": {
-    "TELEGRAM_TOKEN": "",
-    "OPENAI_API_KEY": "",
+    "TELEGRAM_TOKEN": "6251073689:AAH3N4cE4eGzPoMtB3g_0dib95BQ0y0x3JU",
+    "OPENAI_API_KEY": "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",
     "VOICE_MESSAGES_BUCKET": ""
   },
   "lambda_timeout": 600,
